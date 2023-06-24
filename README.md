@@ -1,2 +1,2 @@
 # html-portfolio
-here is where I learn
+I learn here
